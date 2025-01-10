@@ -30,18 +30,28 @@
     --card-box-shadow:0 14px 55px 0 rgb(208 202 239 / 30%);
     --avatar-shadow:rgba(50, 50, 93, 0.25) 0px 0px 3px -1px, rgba(0, 0, 0, 0.3) 0px 0px 2px -1px;
   }
-.roboto-regular {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    }
-.roboto-medium {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-    }
+/* 
+  .poppins-regular {
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+  */
 body{
-        font-family: "Roboto", sans-serif !important;
+        font-family: "Noto Sans", serif !important;
         font-weight: 400 !important;
         font-style: normal;
         background-color: var(--theme-grey-v3) !important;
@@ -53,6 +63,19 @@ body{
         grid-gap: 2rem;
     }
 /* heading */
+.heading-circle::after{
+    position: absolute;
+    content: "";
+    width: 100%;
+    left: 0;
+    background: url('/assets/border-1.png') no-repeat;
+    background-size: 100% 100%;
+    z-index: -1;
+    background-position: bottom;
+    top: auto;
+    bottom: 0;
+    height: 100%;
+    }
 .heading-1{
     font-size: 3.5rem;
     font-weight: 500;
@@ -100,7 +123,7 @@ body{
 .bootstrap-icon {
         font-size: 24px !important;
         margin: 0 10px;
-        color: var(--bs-gray-700) !important;
+        color: var(--theme-black) !important;
       }
 /* button */
 .btn-sm{
