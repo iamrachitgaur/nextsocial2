@@ -114,6 +114,9 @@ body{
 .text-voilet{
         color: var(--theme-voilet);
     }
+.text-grey{
+      color: var(--bs-gray-700);
+    }
 /* background */
 .bg-voilet{
         background-color: var(--theme-voilet);
