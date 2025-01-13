@@ -123,8 +123,8 @@ body{
     }
 /* background */
 .bg-voilet{
-        background-color: var(--theme-voilet);
-        color: var(--theme-white);
+        background-color: var(--theme-voilet) !important;
+        color: var(--theme-white) !important;
     }
 /* icons */
 .bootstrap-icon {
@@ -139,6 +139,10 @@ body{
 .button-voilet{
     background-color: var(--theme-voilet) !important;
     color: var(--theme-white) !important;
+    }
+.button-white{
+      background-color: var(--theme-white) !important;
+      color: var(--theme-voilet) !important;
     }
 .button-black{
     background-color: var(--theme-black-v2) !important;
