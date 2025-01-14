@@ -104,6 +104,39 @@ body{
     font-size: 0.875rem;
     font-weight: 400;
     }
+/* responsive headings */
+@media screen and (max-width:600px) {
+      .heading-1{
+        font-size: 2.24rem;
+        font-weight: 500;
+        }
+        .heading-2{
+            font-size: 2rem;
+            font-weight: 500;
+        }
+        .heading-3{
+        font-size: 1.69rem;
+        font-weight: 500;
+        }
+        
+        .heading-4{
+        font-size: 1.5rem;
+        font-weight: 400;
+        }
+    
+        .heading-5{    
+        font-size: 1.1rem;
+        font-weight: 400;
+        }
+        .heading-5_5{
+          font-size: 1.1rem;
+          font-weight: 400;
+        }
+        .heading-6{
+        font-size: 0.875rem;
+        font-weight: 400;
+        }
+    }
 .card{
         background-color: var(--theme-white) !important;
         border: none !important;
