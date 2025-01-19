@@ -357,7 +357,7 @@ class AboutComponent {
     }
 }
 AboutComponent.ɵfac = function AboutComponent_Factory(t) { return new (t || AboutComponent)(); };
-AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 72, vars: 0, consts: [[1, "my-5", "container"], [1, "about-border-black"], [1, "row", "my-4"], [1, "col-md"], [1, "heading-2", "text-uppercase", "fw-bolder", 2, "line-height", "38px"], [1, "heading-6", "text-end"], [1, "fw-semibold"], [1, "my-3", "py-3", "d-flex", "flex-wrap", "about-gradient", "rounded-4", "justify-content-center", "gap-4"], [1, "card"], [1, "p-2"], ["src", "/assets/img-1.jpg", "alt", "user", 1, "img-fluid", "rounded-4"], [1, "mb-3", "fw-semibold"], [1, "px-3", "py-2", "heading-6", "bg-voilet", "rounded-3", 2, "transform", "translateY(-15px)", "line-height", "17px"], [1, "px-3", "heading-6", "fw-semibold"], [1, "mb-3"], [1, "my-3", "p-5", "bg-voilet", "rounded-4"], [1, "my-5"], [1, "row", "align-items-center"], [1, "heading-2", "fw-semibold"], [1, "heading-6"], [1, "my-3"], [1, "about-border"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
+AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 72, vars: 0, consts: [[1, "my-5", "container"], [1, "about-border-black"], [1, "row", "my-4"], [1, "col-md"], [1, "heading-2", "text-uppercase", "fw-bolder", 2, "line-height", "38px"], [1, "heading-6", "text-end"], [1, "fw-semibold"], [1, "my-3", "py-3", "d-flex", "flex-wrap", "about-gradient", "rounded-4", "justify-content-center", "gap-4"], [1, "card"], [1, "p-2"], ["src", "/assets/about/JATIN_KUMAR_(FOUNDER).jpg", "alt", "founder", 1, "img-fluid", "rounded-4"], [1, "mb-3", "fw-semibold"], [1, "px-3", "py-2", "heading-6", "bg-voilet", "rounded-3", 2, "transform", "translateY(-15px)", "line-height", "17px"], [1, "px-3", "heading-6", "fw-semibold"], ["src", "/assets/HARMESH_KANT_(CO-FOUNDER).jpg", "alt", "user", 1, "img-fluid", "rounded-4"], [1, "mb-3"], ["src", "/assets/about/HARSHIT_KUMAR_(DIRECTOR).jpg", "alt", "user", 1, "img-fluid", "rounded-4"], [1, "my-3", "p-5", "bg-voilet", "rounded-4"], [1, "my-5"], [1, "row", "align-items-center"], [1, "heading-2", "fw-semibold"], [1, "heading-6"], [1, "my-3"], [1, "about-border"]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -396,12 +396,12 @@ AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "div", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "img", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "div", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "img", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "div", 15);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, "HARMESH ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, "HARMESH");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](31, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, " KANT");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "KANT");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "div", 13);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, "CO-FOUNDER");
@@ -411,45 +411,45 @@ AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCom
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "div", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "div", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](37, "img", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "div", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](37, "img", 16);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "div", 15);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](40, "HARMESH ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](40, "HARSHIT");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](41, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, " KANT");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, "KUMAR");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "CO-FOUNDER");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "DIRECTOR");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "div", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "div", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 19);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "div", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "div", 20);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, " OUR VISION ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "div", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "div", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](53, " To empower brands with cutting-edge strategies, social marketing, and technology-driven solutions that elevate their digital presence and unlock their true potential. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "div", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](55, "div", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "div", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](55, "div", 23);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "div", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "div", 19);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "div", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "div", 20);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](59, " OUR MISSION ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](60, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "div", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "div", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](62, " To become a global leader in social marketing, known for innovation, excellence, and building lasting partnerships with our clients. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "ul");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "li");
@@ -766,10 +766,14 @@ function OwnersComponent_div_14_Template(rf, ctx) { if (rf & 1) {
 } }
 class OwnersComponent {
     constructor() {
-        this.owners = [{ image: '/assets/rachit_gaur.jpg', name: 'Rachit Gaur', position: 'Web Developer' },
-            { image: '/assets/img-1.jpg', name: 'John Doe', position: 'Web Developer' },
-            { image: '/assets/rachit_gaur.jpg', name: 'Jordan powell', position: 'Web Developer' },
-            { image: '/assets/img-1.jpg', name: 'Tony Isacc', position: 'Web Developer' },];
+        this.owners = [
+            { image: '/assets/teams/MUSKAN_SHARMA_(HR-HEAD).jpg', name: 'Muskan Sharma', position: 'HR Head' },
+            { image: '/assets/teams/RACHIT_GAUR_(WEB-DEVELOPER).jpg', name: 'Rachit Gaur', position: 'Web Developer' },
+            { image: '/assets/teams/PRADUMN_CHAUHAN_(MARKETING-HEAD).jpg', name: 'Pradumn Chauhan', position: 'Marketing Head' },
+            { image: '/assets/teams/SHRUTI_PANCHAL_(BUSINESS DEVELOPMENT-MANAGER).jpg', name: 'Shruti Panchal', position: 'Bussiness Development Manager' },
+            { image: '/assets/teams/PUSHPENDRA_SHARMA_(GRAPHIC-DESIGNER).jpg', name: 'Pushpendra Sharma', position: 'Graphic Designer' },
+            { image: '/assets/teams/ANUJ_(VIDEO-EDITOR).jpg', name: 'Anuj', position: 'Video Editor' },
+        ];
     }
     ngOnInit() {
     }
