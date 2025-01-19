@@ -766,9 +766,9 @@ function OwnersComponent_div_14_Template(rf, ctx) { if (rf & 1) {
 } }
 class OwnersComponent {
     constructor() {
-        this.owners = [{ image: '/assets/img-1.jpg', name: 'Rachit Gaur', position: 'Web Developer' },
+        this.owners = [{ image: '/assets/rachit_gaur.jpg', name: 'Rachit Gaur', position: 'Web Developer' },
             { image: '/assets/img-1.jpg', name: 'John Doe', position: 'Web Developer' },
-            { image: '/assets/img-1.jpg', name: 'Jordan powell', position: 'Web Developer' },
+            { image: '/assets/rachit_gaur.jpg', name: 'Jordan powell', position: 'Web Developer' },
             { image: '/assets/img-1.jpg', name: 'Tony Isacc', position: 'Web Developer' },];
     }
     ngOnInit() {
